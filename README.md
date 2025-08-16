@@ -49,7 +49,8 @@ The dashboard enables policymakers, researchers, and stakeholders to quickly ide
 
 ## 📷 Dashboard Preview
 
-![Crop Production in India 2024](./your-dashboard-screenshot.png)
+<img width="1353" height="748" alt="image" src="https://github.com/user-attachments/assets/0a6785fe-dc42-41a6-a1a4-ca1380946389" />
+
 
 ---
 
