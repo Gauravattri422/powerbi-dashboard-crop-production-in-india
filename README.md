@@ -50,6 +50,7 @@ The dashboard enables policymakers, researchers, and stakeholders to quickly ide
 ## 📷 Dashboard Preview
 
 <img width="1353" height="748" alt="image" src="https://github.com/user-attachments/assets/0a6785fe-dc42-41a6-a1a4-ca1380946389" />
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/e594a78f-b0bb-4072-9a40-9b3297d2acea" />
 
 
 ---
